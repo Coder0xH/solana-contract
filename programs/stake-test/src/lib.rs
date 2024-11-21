@@ -7,7 +7,6 @@
 //  2. `stake`：质押 lamports
 //  3. `unstake`：提取 lamports
 //
-// 该程序使用 Anchor  量框架来编写，Anchor  量框架提供了一个简洁的接口来编写 Solana  量。
 
 use anchor_lang::prelude::*;
 
